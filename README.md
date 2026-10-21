@@ -17,7 +17,7 @@ This repository contains my work for the **CodSoft Data Analytics Internship**. 
 | Task 2 | Exploratory Data Analysis (EDA) | Python, Pandas, visualization libraries | Completed |
 | Task 3 | Data Visualization and Power BI Dashboard | Python, Pandas, Power BI | Completed |
 | Task 4 | Customer Data Analysis | Power BI | Completed |
-| Task 5 | Web Data Extraction and Analysis | — | Not undertaken |
+
 
 ## Task 1: Data Cleaning and Preprocessing
 
